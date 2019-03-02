@@ -1,1 +1,2 @@
-# cocos-creator-ts
+# hello-world
+Hello world new project template.
